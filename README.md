@@ -92,7 +92,7 @@ We collect personal information that you voluntarily provide to us when you exp
 Sensitive Information. We do not process sensitive information.
 
 
-Payment Data. We may collect data necessary to process your payment if you make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is stored by core studios. You may find their privacy notice link(s) here: __________.
+Payment Data. We may collect data necessary to process your payment if you make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is stored by core studios.
 
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
@@ -194,7 +194,7 @@ We have implemented appropriate and reasonable technical and organizational se
 In Short: We do not knowingly collect data from or market to children under 18 years of age.
 
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at __________.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at corestudiosp@gmail.com.
 
 
 9. WHAT ARE YOUR PRIVACY RIGHTS?
