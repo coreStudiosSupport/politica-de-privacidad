@@ -252,12 +252,10 @@ We may update this privacy notice from time to time. The updated version will be
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 
-If you have questions or comments about this notice, you may email us at __________ or by post to:
+If you have questions or comments about this notice, you may email us at corestudiosp@gmail.com or by post to:
 
 
 core studios
-
-__________
 
 Calle tajy
 
